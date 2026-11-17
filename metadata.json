@@ -1,0 +1,8 @@
+{
+  "name": "AI 夢醒時分，誰留在餐廳洗碗？從 1.6 兆大砍單與 179 億賣超，看懂不動產為何悄悄「重返榮耀」 ",
+  "description": "將 1.6 兆美元 AI 資本支出下修、179 億投信賣超、雙體溫計判讀與十年冷灶機會，結合上傳人物神韻插畫與互動模擬器，打造成好玩的互動式財經簡報。",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
